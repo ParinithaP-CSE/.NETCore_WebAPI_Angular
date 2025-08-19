@@ -1,10 +1,10 @@
 Full-stack CRUD application using ASP.NET Core Web API and Angular.
 
-#Overview
+# Overview
 
 A full-stack web application demonstrating a seamless integration between Angular frontend and ASP.NET Core RESTful APIs. Supports standard CRUD operations, server-side data persistence via SQL Server, form validation, and dynamic toast notifications for real-time user feedback.
 
-##Features
+## Features
 
 Create: Add new records through a user-friendly form.
 
@@ -22,7 +22,7 @@ Toast Notifications: User feedback on CRUD actions (success, error, etc.).
 
 Clean separation: API backend and Angular frontend.
 
-Tech Stack
+# Tech Stack
 Layer	Technology
 Backend	ASP.NET Core Web API (C#)
 Frontend	Angular (TypeScript)
