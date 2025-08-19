@@ -29,3 +29,11 @@ Frontend	Angular (TypeScript)
 Database	SQL Server
 Notifications	Toastr (or similar) for toast alerts
 Validation	Angular Reactive Forms / ASP.NET Model Validation
+
+# Screenshots
+
+<img width="1906" height="860" alt="image" src="https://github.com/user-attachments/assets/d93d2cb2-bb81-4724-afeb-26a57e9cf1a1" />
+
+<img width="1905" height="845" alt="image" src="https://github.com/user-attachments/assets/e05cdf96-5f04-4c1e-a6c6-993b398b87e2" />
+
+
